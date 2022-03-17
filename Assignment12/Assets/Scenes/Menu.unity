@@ -303,7 +303,9 @@ MonoBehaviour:
   playerPrefab: {fileID: 4536805873876336264, guid: 7f6cad2b7a40e9f4e97e154c882a1c82, type: 3}
   autoCreatePlayer: 1
   playerSpawnMethod: 0
-  spawnPrefabs: []
+  spawnPrefabs:
+  - {fileID: 7939396192073469492, guid: 847efab7bc4a9f549ab49fbebc6b6cf6, type: 3}
+  - {fileID: 3814558751233244638, guid: f0ca8a04dea374f4981eab3d9e92e809, type: 3}
 --- !u!4 &616457051
 Transform:
   m_ObjectHideFlags: 0
@@ -405,7 +407,9 @@ MonoBehaviour:
   playerPrefab: {fileID: 4536805873876336264, guid: 7f6cad2b7a40e9f4e97e154c882a1c82, type: 3}
   autoCreatePlayer: 1
   playerSpawnMethod: 0
-  spawnPrefabs: []
+  spawnPrefabs:
+  - {fileID: 7939396192073469492, guid: 847efab7bc4a9f549ab49fbebc6b6cf6, type: 3}
+  - {fileID: 3814558751233244638, guid: f0ca8a04dea374f4981eab3d9e92e809, type: 3}
 --- !u!4 &1661128612
 Transform:
   m_ObjectHideFlags: 0

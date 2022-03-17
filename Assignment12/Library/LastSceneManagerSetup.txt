@@ -1,6 +1,5 @@
 sceneSetups:
-- path: C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12
-    - Copy/Assets/Scenes/Menu.unity
+- path: Assets/Scenes/Menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
