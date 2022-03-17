@@ -1,4 +1,52 @@
+# Starting compiling UnityEngine.TestRunner.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f6d251ff7404bc34587eee6ff52c7cac
+# Starting compiling UnityEngine.UI.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5248cadbbb07bd64f94760ec716214b8
+# Starting IL post processing on UnityEngine.TestRunner.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-dac7fe8c1776cce48b471e6a07cb06da
+# Starting IL post processing on UnityEngine.UI.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-5e99f4a4773dacc4f82347363725ff99
+# Starting compiling Unity.Timeline.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4f4df43170296b9409e19e5d413d82ae
+# Starting compiling Unity.TextMeshPro.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d84bd761a914b69449e4a3902db56f51
+# Starting compiling Telepathy.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4a1d807deebee5b4587a0f2f02cbed23
+# Starting compiling where-allocations.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1acf5968bcff9ec488dd7d95ce38c9d4
+# Starting IL post processing on Telepathy.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-b2a0b2251fb824d4bae541c5d26cb651
+# Starting IL post processing on where-allocations.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-2b11d7e9441979644b25863fb0896300
+# Starting compiling kcp2k.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6af77d204608baf45b6ec28e9b70bec2
+# Starting IL post processing on Unity.Timeline.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-c2541e72d9f381040bba21b2ad19badc
+# Starting IL post processing on Unity.TextMeshPro.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-5a24da07b1e3c83429ea0d72b5888bd1
+# Starting IL post processing on kcp2k.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-ccd533506bdbc4b42925ecdcea73532e
+# Starting compiling Mirror.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f00bbb24e21da114cbee88ea22ef39df
+# Starting IL post processing on Mirror.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-4533fd6efb78685489cdb1f8c4e9ba30
+# Starting compiling Mirror.Authenticators.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-640c14ae89930384ebb5d05d3aa9d7fc
+# Starting compiling SimpleWebTransport.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f01f6874e9ff3bc4190870b19c1fe102
+# Starting compiling Mirror.Components.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3c660e836c9bd834f9eca34bb61c605d
+# Starting IL post processing on Mirror.Authenticators.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-754cd9a3fad254a4a88bf386a1d05871
+# Starting IL post processing on SimpleWebTransport.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-567833f653a51a549a5c8045db64ad44
+# Starting IL post processing on Mirror.Components.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-bcae6f2a2c375fa4ab633e31cda5eb9b
+# Starting compiling Mirror.Examples.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-82c39d475df2e844b9e323c9d452435d
+# Starting IL post processing on Mirror.Examples.dll
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-17c6b6b6ce1044949a2eea0ddf1a4f3f
 # Starting compiling Assembly-CSharp.dll
-C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-77000f94c3d20dd4eaf8e3b724f0502e
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c3e092dfa018c9543aeffe788bbd0e47
 # Starting IL post processing on Assembly-CSharp.dll
-"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-4fcf7d36b607e3f4c8ba41d1dbfbe3f9
+"C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/bin/mono.exe" "C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @C:/Users/pjpia/OneDrive/Documents/GitHub/Assignment12-PatrickPiazza/Assignment12/Temp/UnityTempFile-df595accffc44b04a992b4801edc1e04
