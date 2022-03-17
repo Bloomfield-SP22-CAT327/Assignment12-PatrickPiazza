@@ -129,4 +129,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncMode: 0
   syncInterval: 0.1
+  moveSpeed: 1.875
+  bulletPrefab: {fileID: 7939396192073469492, guid: 847efab7bc4a9f549ab49fbebc6b6cf6, type: 3}
   color: {r: 0, g: 0, b: 0, a: 0}
