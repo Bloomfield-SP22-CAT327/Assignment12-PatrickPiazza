@@ -13,6 +13,11 @@ public class Player : NetworkBehaviour
 	
 	[SyncVar]
     public Color color;
+
+	void Start()
+    {
+		score += 500;
+    }
 	
 	void Update() 
 	{
@@ -31,12 +36,13 @@ public class Player : NetworkBehaviour
 	
 	void GetInput() 
 	{
-		float x = Input.GetAxisRaw("Horizontal") * moveSpeed * Time.deltaTime;
-		float y = Input.GetAxisRaw("Vertical") * moveSpeed * Time.deltaTime;
+		float x = Input.GetAxisRaw("Horizontal") * (moveSpeed * 2.0f) * Time.deltaTime;
+		float y = Input.GetAxisRaw("Vertical") * (moveSpeed * 2.0f) * Time.deltaTime;
 		
-	if(Input.GetButtonUp("Fire1"))
+	if(Input.GetButtonDown("Fire1") && score > 0)
 	{
 		CmdDoFire();
+		score -= 25;
 	}
 	
 	if(isServer)

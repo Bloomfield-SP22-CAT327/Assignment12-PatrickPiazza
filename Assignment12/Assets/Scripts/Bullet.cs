@@ -19,7 +19,7 @@ public class Bullet : NetworkBehaviour {
 		if(isServer) 
 		{
  			Player player = NetworkIdentity.spawned[parentNetId].GetComponent<Player>();
- 			player.score += 100;
+ 			player.score += 50;
  			Destroy(other.gameObject);
  		}
 	}
